@@ -38,4 +38,6 @@
 <a href="https://www.linkedin.com/in/joaopedromorlinportela/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 
+[![Spotify](https://novatorem-five-eta-38.vercel.app/api/spotify)](https://open.spotify.com/user/jpedroseelig)
+
 
