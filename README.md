@@ -1,7 +1,8 @@
 <p align="center">
-<img src="https://github.com/jpedromorlinportela/jpedromorlinportela/blob/c43e5e67be3b7bae2b8102ffc2ac004592bedec8/Rotating_earth_animated_transparent.gif"/>
+  <img src="https://github.com/jpedromorlinportela/jpedromorlinportela/blob/c43e5e67be3b7bae2b8102ffc2ac004592bedec8/Rotating_earth_animated_transparent.gif" width="200px"/>
 </p>
 <br>
+
 
 
 
@@ -14,5 +15,6 @@
 
 
 
+<p align="center">
+  <img src="https://github.com/jpedromorlinportela/jpedromorlinportela/blob/7d04edca8a261ac8336a92637e7f06e184d79872/ChatGPT%20Image%2013%20de%20jun.%20de%202025%2C%2015_45_23.png" width="600px"/>
 
-![image](https://github.com/jpedromorlinportela/jpedromorlinportela/blob/7d04edca8a261ac8336a92637e7f06e184d79872/ChatGPT%20Image%2013%20de%20jun.%20de%202025%2C%2015_45_23.png)
