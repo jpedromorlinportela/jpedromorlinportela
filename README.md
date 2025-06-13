@@ -1,6 +1,7 @@
-<p align="center">![image](https://github.com/jpedromorlinportela/jpedromorlinportela/blob/c43e5e67be3b7bae2b8102ffc2ac004592bedec8/Rotating_earth_animated_transparent.gif)
-  <br> 
-  
+<p align="center">!
+  [image](https://github.com/jpedromorlinportela/jpedromorlinportela/blob/c43e5e67be3b7bae2b8102ffc2ac004592bedec8/Rotating_earth_animated_transparent.gif)
+
+<br> 
 <a href="https://steamcommunity.com/id/pedroka1996/">
     <img src="https://img.shields.io/badge/Pedroka-black?style=social&logo=steam" />
    <br> 
