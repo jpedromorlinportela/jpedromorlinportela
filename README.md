@@ -1,7 +1,10 @@
+<p align="center"> <span style="font-size: 20px; color: #1e90ff; font-weight: bold; font-family: Arial, sans-serif;"> Olá, meu nome é João Portela. Estou iniciando os estudos em ciência de dados e aqui no meu README você poderá me conhecer melhor. </span> </p>
+
 <p align="center">
   <img src="https://github.com/jpedromorlinportela/jpedromorlinportela/blob/c43e5e67be3b7bae2b8102ffc2ac004592bedec8/Rotating_earth_animated_transparent.gif" width="200px"/>
 </p>
----
+
+
 <br>
 
 
