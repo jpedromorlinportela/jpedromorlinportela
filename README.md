@@ -20,7 +20,7 @@
 ### Mercado Financeiro 📈  
 > Análise técnica, renda fixa e renda variável
 
-### Apaixonado pela minha família
+### Apaixonado pela minha família 👫 + 🐈‍⬛🐈🐈‍⬛ + 🧡 + 🍽️
 > Giulia de Assis, Teodoro, Matilda e Frederico
   <img src="https://github.com/jpedromorlinportela/jpedromorlinportela/blob/7d04edca8a261ac8336a92637e7f06e184d79872/ChatGPT%20Image%2013%20de%20jun.%20de%202025%2C%2015_45_23.png" width="200px"/>
   
