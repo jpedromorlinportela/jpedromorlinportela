@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://github.com/jpedromorlinportela/jpedromorlinportela/blob/c43e5e67be3b7bae2b8102ffc2ac004592bedec8/Rotating_earth_animated_transparent.gif" width="200px"/>
 </p>
+---
 <br>
+
 
 
 
