@@ -1,4 +1,4 @@
-![image](https://upload.wikimedia.org/wikipedia/commons/7/7f/Rotating_earth_animated_transparent.gif)
+![gif](https://upload.wikimedia.org/wikipedia/commons/7/7f/Rotating_earth_animated_transparent.gif)
   
 <a href="https://steamcommunity.com/id/pedroka1996/">
     <img src="https://img.shields.io/badge/Pedroka-black?style=social&logo=steam" />
