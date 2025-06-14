@@ -43,7 +43,8 @@
 <br>
 <br>
 
-# ![Static Badge](https://img.shields.io/badge/Meu_Spotify%20-black?style=social&logo=spotify)
+# <a href="https://open.spotify.com/user/jpedroseeli"> <img src="https://img.shields.io/badge/Meu_Spotify%20-black?style=social&logo=spotify" />
+
 
 [![Spotify](https://novatorem-five-eta-38.vercel.app/api/spotify)](https://open.spotify.com/user/jpedroseelig) 
 
