@@ -13,7 +13,7 @@
        
 <br>
 
-# **sobre mim**
+# **Sobre mim**
 ### Formado em Relações Internacionais 🌐🕊️🇺🇳  
 > Estudo de geopolitica, diplomacia e organizações internacionais
 
@@ -30,15 +30,24 @@
 > ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-# **minhas redes**
+# **Minhas redes**
 
 <a href="https://steamcommunity.com/id/pedroka1996/">
     <img src="https://img.shields.io/badge/Pedroka-black?style=social&logo=steam" />
    <br> 
+  
 <a href="https://www.linkedin.com/in/joaopedromorlinportela/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <br>
+<a href="https://www.instagram.com/jpedromorlin/">
+    <img src="https://img.shields.io/badge/%20-black?style=social&logo=instagram" />
+<br>
+<br>
+<br>
 
-[![Spotify](https://novatorem-five-eta-38.vercel.app/api/spotify)](https://open.spotify.com/user/jpedroseelig)
+![Static Badge](https://img.shields.io/badge/Meu_Spotify%20-black?style=social&logo=spotify)
+***
+[![Spotify](https://novatorem-five-eta-38.vercel.app/api/spotify)](https://open.spotify.com/user/jpedroseelig) 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jpedroseelig&count=5)
 
