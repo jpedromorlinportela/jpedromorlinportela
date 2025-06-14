@@ -6,11 +6,8 @@
 
 <p align="center">
   <img src="https://github.com/jpedromorlinportela/jpedromorlinportela/blob/c43e5e67be3b7bae2b8102ffc2ac004592bedec8/Rotating_earth_animated_transparent.gif" width="200px"/>
-</p>
-
-
-   ****
-       
+</p>    
+<br>
 <br>
 
 # **Sobre mim**
@@ -28,7 +25,8 @@
 > ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 > ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 > ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
+<br>
+<br>
 
 # **Minhas redes**
 
@@ -45,8 +43,8 @@
 <br>
 <br>
 
-![Static Badge](https://img.shields.io/badge/Meu_Spotify%20-black?style=social&logo=spotify)
-***
+# ![Static Badge](https://img.shields.io/badge/Meu_Spotify%20-black?style=social&logo=spotify)
+
 [![Spotify](https://novatorem-five-eta-38.vercel.app/api/spotify)](https://open.spotify.com/user/jpedroseelig) 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jpedroseelig&count=5)
