@@ -40,4 +40,6 @@
 
 [![Spotify](https://novatorem-five-eta-38.vercel.app/api/spotify)](https://open.spotify.com/user/jpedroseelig)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jpedroseelig&count=5)
+
 
